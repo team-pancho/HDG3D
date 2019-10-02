@@ -10,10 +10,12 @@ Following is the list of developers with affiliations at the time of the release
 * Daniele Prada, Indiana University - Purdue University Indianapolis
 
 ## Software and documentation
-* [HDG3D package](https://team-pancho.github.io/HDG3D/webHDG.zip) (A zip file with the matlab functions. The file contains also one fully developed script to test the method and a couple of three dimensional meshes. No installation is required.)
-* [Documentation](https://team-pancho.github.io/HDG3D/documentationHDG3d.pdf) (A pdf file with the full documentation of the method)
+* [Latest HDG3D package](https://github.com/team-pancho/HDG3D/releases) (This contains a library of Matlab functions. The file contains also one fully developed script to test the method and a couple of three dimensional meshes. No installation is required.)
+* [Documentation](https://github.com/team-pancho/HDG3D/tree/master/Documentation) (A pdf file with the full documentation of the method)
 * [A copy of a slightly earlier version of the code in the ACM repository](http://calgo.acm.org/949.zip). The [ACM TOMS paper](http://dl.acm.org/citation.cfm?id=2786970) explaining how HDG3D is coded.
 
 ## More
 Project website: [https://team-pancho.github.io/HDG3D/](https://team-pancho.github.io/HDG3D/)
+
+Team website: [https://team-pancho.github.io](https://team-pancho.github.io/)
 
